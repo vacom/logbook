@@ -38,6 +38,7 @@ Log.color("title", "value", "#2274A5");
 Log.warn("This is a warning");
 Log.error("This is a error");
 Log.success("This is a success");
+Log.time("This is a time log");
 
 /** DATA **/
 //Table

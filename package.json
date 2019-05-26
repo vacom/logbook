@@ -1,6 +1,6 @@
 {
   "name": "@vacom/logbook",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "A library with no dependencies to handle and amplify the use of console.log and other forms of debugging",
   "main": "./lib/index.js",
   "scripts": {

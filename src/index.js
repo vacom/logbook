@@ -20,6 +20,11 @@ const color = (
     value
   );
 
+const time = (value = "The value parameter is missing") => {
+  const d = new Date();
+  return color(`Time: ${d.getHours()}:${d.getMinutes()}`, value, "#313A87");
+};
+
 const trace = (value = "The value parameter is missing") =>
   console.trace(value);
 
@@ -57,7 +62,8 @@ const Log = {
   assert,
   clear,
   count,
-  info
+  info,
+  time
 };
 
 export default Log;
