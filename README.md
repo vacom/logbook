@@ -2,7 +2,7 @@
 
 A simple library with no dependencies, which uses console.log but better looks and functionality in a simple API
 
-![Logbook](http://i63.tinypic.com/sev9tg.jpg)
+![Logbook](https://i.imgur.com/lie3Fan.jpg)
 
 ## Installation
 
